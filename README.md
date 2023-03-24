@@ -66,6 +66,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=annan92419&theme=radical&include_all_commits=true)](https://git.io/streak-stats)
 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=annan92419&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annan92419&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Anime_snaps/kakashi.png" alt="Kakashi" style="float: left; margin-right: 10px;" width="200px" />
 
@@ -85,3 +87,19 @@ Here are some ideas to get you started:
   <a href="mailto:jesann404@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+[//]: # (Credits)
+[//]: # ( https://github.com/itsZed0 )
+[//]: # ( https://github.com/zehrocknroll )
+[//]: # ( https://github.com/SatYu26 )
