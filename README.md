@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  </p>
 
 - :man_student: I am working on a second degree in Maths - scientific computing concentration.
-- :seedling: I am studying Data Science and Machine Learning.
+- :seedling: I am studying Data Science and Machine Learning on [DataCamp](https://app.datacamp.com/profile/jannan).
 - 👯 I am open to collaborating on any data related project.
 - :zap: In my spare time, I spend time listening to podcasts about Data Science, ML, and AI.
 - :nerd_face: I am an anime, manga, and sports nerd.
