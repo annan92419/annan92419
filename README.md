@@ -77,7 +77,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/jesse-annan-8979b51a0/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/a_jesse23">
+  <a href="https://twitter.com/a_jesse24">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/a_jesse24/">
