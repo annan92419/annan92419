@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 👯 I am open to collaborating on any data related project.
 - :zap: In my spare time, I spend time listening to podcasts about Data Science, ML, and AI.
 - :nerd_face: I am an anime, manga, and sports nerd.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-annan-8979b51a0/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-annan97)
 
 
 ---
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ---
 #### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/jesse-annan-8979b51a0/">
+  <a href="https://www.linkedin.com/in/jesse-annan97">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/a_jesse24">
