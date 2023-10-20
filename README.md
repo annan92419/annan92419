@@ -2,20 +2,6 @@
 print("Hello World 👋, I'm Jesse!")
 ```
 
-<!--
-**annan92419/annan92419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMxODQ2YzZlOGE2Yzk0NDQxYWJiN2U3MmY4YTMyMzk0YTQ5YWYyYSZjdD1n/4rL0k8t2mSmWbzO8fl/giphy.gif" width="250"/>
@@ -29,19 +15,18 @@ Here are some ideas to get you started:
 
 
 ---
-#### :man_technologist: About Me
+#### :man_technologist: Buzz Buzz
 
 <p>
-  I am Jesse Annan, a motivated young student interested in solving problems, investing time and energy to overcome roadblocks, and learning from mistakes. I yearn to establish myself in the tech space, preferably in Machine Learning. Hence, I am working towards becoming a mathematician, machine learning engineer, and lifelong researcher in both mathematics and machine learning space. <br>
-  :zap: Fun fact: I enjoy watching :soccer::football::basketball::ice_hockey::wrestling::boxing_glove:; thus, I would love to explore the space of sports science with my growing knowledge of sports, mathematics, and machine learning.
+  I'm really getting into Natural Language Processing (NLP), especially when it comes to understanding emotions (sentiment analysis). I'm also curious about how we can mix in computer vision to make emotion analysis even cooler. Imagine, pictures and videos helping us understand feelings better! It's like building a buddy who totally gets your emotions - I think we could call it man's second-best friend :smiley:. <br>
+  :zap: Fun fact: I'm a massive fan of ⚽️⚾🏀🏒🤼🥊! So, I'd really enjoy diving into the world of sports science, combining my love for sports with my growing expertise in mathematics and machine learning.
  </p>
 
-- :man_student: I am working on a second degree in Maths - scientific computing concentration.
-- :seedling: I am studying Data Science and Machine Learning on [DataCamp](https://app.datacamp.com/profile/jannan).
-- 👯 I am open to collaborating on any data related project.
-- :zap: In my spare time, I spend time listening to podcasts about Data Science, ML, and AI.
-- :nerd_face: I am an anime, manga, and sports nerd.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-annan97)
+<!-- commented: - :man_student: I am working on a second degree in Maths - scientific computing concentration. -->
+- :seedling: Studying NLP and Pytorch on [DataCamp](https://app.datacamp.com/learn/skill-tracks/natural-language-processing-in-python).
+- :ear_with_hearing_aid: Data Skeptic, NLP Highlights
+- :nerd_face: anime, manga, and sports.
+<!-- commented: - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-annan97) -->
 
 
 ---
@@ -77,12 +62,12 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/jesse-annan97">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/a_jesse24">
+  <a href="https://twitter.com/jesann404">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/a_jesse24/">
+  <!-- commented: <a href="https://www.instagram.com/jesann404">
     <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
+  </a> &nbsp;&nbsp; -->
   <a href="mailto:jesann404@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
