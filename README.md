@@ -17,7 +17,7 @@ print("Hello World 👋, I'm Jesse!")
  </p>
 
 <!-- commented: - :man_student: I am working on a second degree in Maths - scientific computing concentration. -->
-- :seedling: Studying NLP and Pytorch on [DataCamp](https://app.datacamp.com/learn/skill-tracks/natural-language-processing-in-python).
+- :seedling: Studying NLP on [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ).
 - :ear_with_hearing_aid: Data Skeptic, NLP Highlights
 - :nerd_face: anime, manga, and sports.
 <!-- commented: - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-annan97) -->
