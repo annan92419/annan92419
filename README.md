@@ -9,12 +9,6 @@ print("Hello World 👋, I'm Jesse!")
 
 
 ---
-<div id="header" align = "center">
-<img src="https://komarev.com/ghpvc/?username=annan92419&style=flat-square&color=blue" alt=""/>
-</div>
-
-
----
 #### :man_technologist: Buzz Buzz
 
 <p>
