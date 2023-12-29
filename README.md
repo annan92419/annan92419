@@ -13,12 +13,12 @@ print("Hello World 👋, I'm Jesse!")
 
 <p>
   I'm really getting into Natural Language Processing (NLP), especially when it comes to understanding emotions (sentiment analysis). I'm also curious about how we can mix in computer vision to make emotion analysis even cooler. Imagine, pictures and videos helping us understand feelings better! It's like building a buddy who totally gets your emotions - I think we could call it man's second-best friend :smiley:. <br>
-  :zap: Fun fact: I'm a massive fan of ⚽️⚾🏀🏒🤼🥊! So, I'd really enjoy diving into the world of sports science, combining my love for sports with my growing expertise in mathematics and machine learning.
+  :zap: Fun fact: I'm a massive fan of ⚽️⚾🏀🏒🤼🥊! So, I'd really enjoy diving into the world of sports science, combining my love for sports with my growing expertise in mathematics, machine learning, and NLP.
  </p>
 
 <!-- commented: - :man_student: I am working on a second degree in Maths - scientific computing concentration. -->
 - :man_student: My current [CV](https://drive.google.com/file/d/1J_LgsIXVYNn0hWT-W7BWEpOJnKcTWFCm/view?usp=sharing)
-- :seedling: Studying NLP on [DataCamp](https://app.datacamp.com/learn/skill-tracks/natural-language-processing-in-python) and [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ).
+- :seedling: Studying NLP and PyTorch.
 - :ear_with_hearing_aid: Data Skeptic, NLP Highlights
 - :nerd_face: anime, manga, and sports.
 <!-- commented: - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-annan97) -->
