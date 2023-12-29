@@ -1,5 +1,5 @@
 ```python
-print("Hello Human 👋, I'm Jesse!")
+print("Hello Human, I'm Jesse!") 🤝
 ```
 
 
