@@ -12,13 +12,14 @@ print("Hello Human, I'm Jesse!") 🤝
 #### :man_technologist: Buzz Buzz
 
 <p>
-  I'm really getting into Natural Language Processing (NLP), especially when it comes to understanding emotions (sentiment analysis). I'm also curious about how we can mix in computer vision to make emotion analysis even cooler. Imagine, pictures and videos helping us understand feelings better! It's like building a buddy who totally gets your emotions - I think we could call it man's second-best friend :smiley:. <br>
-  :zap: Fun fact: I'm a massive fan of ⚽️⚾🏀🏒🤼🥊! So, I'd really enjoy diving into the world of sports science, combining my love for sports with my growing expertise in mathematics, machine learning, and NLP.
+I'm really getting into Natural Language Processing (NLP), especially when it comes to understanding emotions, such as in sentiment analysis. I'm also curious about how we can integrate computer vision to enhance emotion analysis further. Imagine using pictures and videos to better understand feelings! It's like creating a companion that fully comprehends your emotions—I think we could call it humanity's second-best friend. 😊
+
+Fun fact: I'm a huge fan of soccer, am. football, basketball, ice hockey, mma, and boxing! So, I would really enjoy exploring sports science (projects), combining my love for sports with my growing expertise in mathematics, machine learning, and NLP (and computer vision).
  </p>
 
 <!-- commented: - :man_student: I am working on a second degree in Maths - scientific computing concentration. -->
 - :man_student: My current [CV](https://drive.google.com/file/d/1J_LgsIXVYNn0hWT-W7BWEpOJnKcTWFCm/view?usp=sharing)
-- :seedling: Studying NLP and PyTorch.
+- :seedling: Studying SQL, SAS, PyTorch, and Deep Learning.
 - :ear_with_hearing_aid: Data Skeptic, NLP Highlights
 - :nerd_face: anime, manga, and sports.
 <!-- commented: - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-annan97) -->
