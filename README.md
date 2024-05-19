@@ -22,7 +22,7 @@ Fun fact: I'm a huge fan of football, am. football, basketball, ice hockey, mma,
 <!-- commented: - :man_student: I am working on a second degree in Maths - scientific computing concentration. -->
 - :man_student: My current [CV](https://drive.google.com/file/d/1J_LgsIXVYNn0hWT-W7BWEpOJnKcTWFCm/view?usp=sharing)
 - :seedling: Studying SQL, PyTorch, and Deep Learning.
-- :ear_with_hearing_aid: Data Skeptic, NLP Highlights
+- :ear_with_hearing_aid: Data Skeptic, NLP Highlights, E.L, Lil Wayne, Kendrick, Eminem
 - :nerd_face: anime, manga, and sports.
 <!-- commented: - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-annan97) -->
 
