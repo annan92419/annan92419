@@ -21,8 +21,8 @@ Fun fact: I'm a huge fan of football, am. football, basketball, ice hockey, mma,
 
 <!-- commented: - :man_student: I am working on a second degree in Maths - scientific computing concentration. -->
 - :man_student: My current [CV](https://drive.google.com/file/d/1J_LgsIXVYNn0hWT-W7BWEpOJnKcTWFCm/view?usp=sharing)
-- :seedling: Studying SQL, PyTorch, and Deep Learning.
-- :ear_with_hearing_aid: Data Skeptic, NLP Highlights, E.L, Lil Wayne, Kendrick, Eminem
+- :seedling: Studying [SQL]( https://cs50.harvard.edu/sql/2024/ ), [PyTorch]( https://www.youtube.com/watch?v=Z_ikDlimN6A&t=13956s ), and Deep Learning.
+- :ear_with_hearing_aid: [Data Skeptic]( https://open.spotify.com/show/1BZN7H3ikovSejhwQTzNm4 ), [NLP Highlights]( https://open.spotify.com/show/4tGHzmicSHIVU3ksf5iYv8 ), [E.L]( https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Kendrick](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR)
 - :nerd_face: anime, manga, and sports.
 <!-- commented: - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-annan97) -->
 
