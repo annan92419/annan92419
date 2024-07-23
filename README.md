@@ -12,8 +12,8 @@ print("Hello Human, I'm Jesse!") 🤝
 #### :man_technologist: Buzz Buzz
 
 <p>
-I'm curious about how we can integrate computer vision to enhance emotion analysis further. Imagine using pictures and videos to better understand feelings! It's like creating a companion that fully comprehends your emotions—I think we could call it humanity's second-best friend. 😊
-
+<!-- comment out: I'm curious about how we can integrate computer vision to enhance emotion analysis further. Imagine using pictures and videos to better understand feelings! It's like creating a companion that fully comprehends your emotions—I think we could call it humanity's second-best friend. 😊
+  
 Checkout my [Medium]( https://medium.com/@jesse419419 ), to know what I read the previous week 😃
 
 Fun fact: I'm a huge fan of football, am. football, basketball, ice hockey, mma, and boxing! So, I would really enjoy exploring sports science (projects), combining my love for sports with my growing expertise in mathematics and deeplearning.
