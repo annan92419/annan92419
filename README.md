@@ -13,7 +13,7 @@ print("Hello, I'm Jesse!")
 I'm an ML researcher interested in deep learning, computer vision, and sports science.
 Currently studying SQL and PyTorch, building toward the intersection of mathematics and applied AI.
 
-**[Portfolio](https://your-portfolio-url.vercel.app)**
+**[Portfolio](https://your-portfolio-url.vercel.app)** <br>
 **[CV](https://drive.google.com/file/d/1J_LgsIXVYNn0hWT-W7BWEpOJnKcTWFCm/view?usp=sharing)**
 
 ---
