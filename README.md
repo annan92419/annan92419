@@ -20,9 +20,9 @@ Currently studying SQL and PyTorch, building toward the intersection of mathemat
 
 #### Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=annan92419&theme=radical&include_all_commits=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=annan92419&theme=radical&include_all_commits=true)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annan92419&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annan92419&show_icons=true&theme=radical) -->
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annan92419&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
