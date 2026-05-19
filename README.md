@@ -6,29 +6,16 @@ print("Hello, I'm Jesse!")
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMxODQ2YzZlOGE2Yzk0NDQxYWJiN2U3MmY4YTMyMzk0YTQ5YWYyYSZjdD1n/4rL0k8t2mSmWbzO8fl/giphy.gif" width="250"/>
 </div>
 
-
 ---
+
 #### :man_technologist: Buzz Buzz
 
-I'm an ML researcher interested in deep learning, computer vision, and sports science.
-Currently studying SQL and PyTorch, building toward the intersection of mathematics and applied AI.
+I'm a Computer Science PhD student at Georgia State University, researching deep learning at the intersection of generative modeling and spatial-temporal prediction.
 
-**[Portfolio](https://jesseannan.dev)** <br>
-**[CV](https://drive.google.com/file/d/1J_LgsIXVYNn0hWT-W7BWEpOJnKcTWFCm/view?usp=sharing)**
+- 🏃 **Multi-Agent Trajectory Prediction** — probabilistic future motion modeling for agents in crowded scenes
+- 🧠 **Brain Tumor Inpainting** — synthesizing healthy tissue from tumor-affected MRI scans
 
----
-
-#### Stats
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=annan92419&theme=radical&include_all_commits=true)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annan92419&show_icons=true&theme=radical) -->
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annan92419&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[LinkedIn](https://www.linkedin.com/in/jesse-annan97) · [Twitter](https://twitter.com/jesann404) · [Medium](https://medium.com/@jesse419419)
+**[LinkedIn](https://www.linkedin.com/in/jesse-annan97)** &nbsp;·&nbsp; **[Portfolio](https://jesseannan.dev)** &nbsp;·&nbsp; **[CV](https://jesseannan.dev/PhD_Resume.pdf)**
 
 ---
 [//]: # (Credits)
