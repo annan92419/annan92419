@@ -1,5 +1,5 @@
 ```python
-print("Hello, I'm Jesse!")
+  print("Hello, I'm Jesse!")
 ```
 
 <div id="header" align="center">
@@ -18,7 +18,3 @@ I'm a Computer Science PhD student at Georgia State University, researching deep
 **[LinkedIn](https://www.linkedin.com/in/jesse-annan97)** &nbsp;·&nbsp; **[Portfolio](https://jesseannan.dev)** &nbsp;·&nbsp; **[CV](https://jesseannan.dev/PhD_Resume.pdf)**
 
 ---
-[//]: # (Credits)
-[//]: # ( https://github.com/itsZed0 )
-[//]: # ( https://github.com/zehrocknroll )
-[//]: # ( https://github.com/SatYu26 )
